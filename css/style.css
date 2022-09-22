@@ -1,0 +1,79 @@
+/*Fourth*/
+.under{
+    margin-top: 40px;
+}
+
+/*Fifth*/
+    .toggler { 
+        width: 500px;
+        height: 240px; 
+        position: relative;
+}
+    #button { 
+        padding: .5em 1em;
+        text-decoration: none; 
+    }
+    #effect { 
+        width: 240px; 
+        height: 200px; 
+        padding: 0.4em; 
+        position: relative; 
+        background: #fff; 
+    }
+    #effect h3 { 
+        margin: 0; 
+        padding: 0.4em; 
+        text-align: center; 
+    }
+
+    /*Slider*/
+
+
+    .flex {
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    
+    .flex div {
+        width: 200px;
+        height: 200px;
+        padding: 50px 0;
+        margin: 10px;
+        text-align: center;
+        border-radius: 5px;
+        background: #19f;
+        color: #fff;
+        box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.2);
+    }
+
+.box1{
+    height: 300px;
+    background-color: #19f;
+    padding: 30px;
+    margin: 30px 0;
+}
+.box2{
+    height: 300px;
+    background-color: rgb(37, 62, 82);
+    padding: 30px;
+}
+
+    .lead { font-size: 1.5rem; font-weight: 300; }
+    .container { margin: 70px auto; max-width: 960px; }
+    .btn { padding: 1.25rem; border: 0; border-radius: 3px; background-color: #4F46E5; color: #fff; cursor: pointer; }
+    .container img { width: 300px; margin-top: 20px;}
+
+    
+
+
+
+
+
+
+
+
+
+
